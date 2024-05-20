@@ -3,9 +3,9 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>To-Do list | Posts</title>
+    <title>To-Do list | Blog</title>
 </head>
 <body>
-    <h1>Halaman Posts</h1>
+    <h1>Halaman Blog</h1>
 </body>
 </html>
