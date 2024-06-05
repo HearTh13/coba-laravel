@@ -14,10 +14,10 @@ class PostController extends Controller
         ]);
     }
 
-    public function show($slug){
+    public function show($id){
         return view('post', [
             "title" => "Single Post",
-            "post" => post::find($slug)
+            "post" => post::find($id)
         ]);
     }
 }
